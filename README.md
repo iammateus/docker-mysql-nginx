@@ -1,6 +1,6 @@
 # docker-mysql-nginx
 
-Example of creating a MySQL and Nginx container using Docker Compose
+Example of creating MySQL and Nginx containers using Docker Compose.
 
 ## Requeriments
 
