@@ -10,4 +10,6 @@ Example of creating a MySQL and Nginx container using Docker Compose
 
     $ docker-compose up
 
+## License
+
 [MIT](https://github.com/iammateus/docker-mysql-nginx/blob/master/LICENSE)
